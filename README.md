@@ -1,2 +1,2 @@
 # hello-world
-just a little step to git!
+Just to say hello to git.
